@@ -1,7 +1,6 @@
 # text within <span id="fade"></span>:
 #   on click, fade out and then remove
-d3.select("body")
-  .select("span#fade")
+d3.select("span#fade")
   .on "click", () ->
     console.log("click")
     d3.select(this).transition()
