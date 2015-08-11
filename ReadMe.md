@@ -1,6 +1,6 @@
 ### Talk on &ldquo;Interactive graphics for high-dimensional genetic data&rdquo;
 
-These are slides for a talk that I will give at
+These are slides for a talk that I gave at
 [Joint Statistical Meetings](https://www.amstat.org/meetings/jsm/2015/)
 in Seattle on 10 August 2015.
 
