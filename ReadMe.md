@@ -4,7 +4,7 @@ These are slides for a talk that I gave at
 [Joint Statistical Meetings](https://www.amstat.org/meetings/jsm/2015/)
 in Seattle on 10 August 2015.
 
-See them in action [here](https://www.biostat.wisc.edu/~kbroman/presentations/JSM2015).
+See them in action [here](https://kbroman.org/Talk_JSM2015/).
 
 ---
 
